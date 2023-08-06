@@ -1,0 +1,49 @@
+#grad {
+  background-image: repeating-linear-gradient(red,blue,green,pink,)
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  
+  
+
+}
+
+.Logo{
+  color: black;
+
+}
+
+
+.More-info-1 {
+  color: black;
+  
+
+
+}
+
+.More-info-2 {
+  color: black;
+
+}
+
+.More-info-3 {
+  color: black;
+
+}
