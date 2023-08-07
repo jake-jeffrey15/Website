@@ -1,19 +1,6 @@
-#grad {
-  background-image: repeating-linear-gradient(red,blue,green,pink,)
-
-
+body {
+  background-color: #1f2937
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -27,6 +14,7 @@
 
 .Logo{
   color: black;
+  
 
 }
 
