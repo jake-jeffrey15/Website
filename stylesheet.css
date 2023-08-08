@@ -2,36 +2,57 @@ body {
   background-color: #1f2937
 }
 
+.heading {
+  font-size: 24px;
+  font-style: bold;
+
+
+}
 
 
 .container {
   display: flex;
-  justify-content: space-between;
-  
-  
+   
 
 }
 
-.Logo{
-  color: black;
-  
+.Logo {
+  color:#f9faf8;
+  font-size: 48px;
+  font-style: bold;
+  flex: 1; 
 
 }
 
 
 .More-info-1 {
-  color: black;
-  
+  color:#f9faf8;
+  font-size: 24px;
+  flex: 1;
 
 
 }
 
 .More-info-2 {
-  color: black;
-
+  color:#f9faf8;
+  font-size: 24px;
+  flex: 1;
 }
 
 .More-info-3 {
-  color: black;
+  color:#f9faf8;
+  font-size: 24px;
+  flex: 1;
+}
 
+.container-img {
+  display: flex;
+}
+
+.paragraph {
+  color:#f9faf8;
+}
+
+.title-img {
+ 
 }
