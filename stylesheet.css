@@ -12,6 +12,7 @@ body {
 
 .container {
   display: flex;
+  border: #f00909 solid 10px;
    
 
 }
@@ -47,12 +48,23 @@ body {
 
 .container-img {
   display: flex;
+  justify-content: flex-start;
+  border: 10px solid #f00909;
+  margin-bottom: 1rem;
+  
 }
 
 .paragraph {
   color:#f9faf8;
+ 
 }
 
-.title-img {
- 
+img { 
+  width: 600px;
+  height: 300px;
+}
+
+strong {
+  font-size: 48px;  
+  color: #F9FAF8;
 }
