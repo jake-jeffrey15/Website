@@ -47,10 +47,11 @@ body {
   flex: 1;
 }
 
-.box-p-dog {
+.heading-box {
   display: flex;
   margin-top: 7rem;
   justify-content: space-around;
+  
   
 }
 
@@ -74,3 +75,6 @@ button {
   font-size: 18px;
 }
 
+.container {
+  
+}
