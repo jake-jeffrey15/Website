@@ -10,9 +10,10 @@ body {
 }
 
 
-.container {
+.box-nav-bar {
   display: flex;
-  border: #f00909 solid 10px;
+  justify-content: space-around;
+
    
 
 }
@@ -46,25 +47,30 @@ body {
   flex: 1;
 }
 
-.container-img {
+.box-p-dog {
   display: flex;
-  justify-content: flex-start;
-  border: 10px solid #f00909;
-  margin-bottom: 1rem;
+  margin-top: 7rem;
+  justify-content: space-around;
   
 }
 
 .paragraph {
   color:#f9faf8;
+  font-size: 18px;
  
 }
 
-img { 
-  width: 600px;
-  height: 300px;
+img {
+  width: 500px;
+  height: 350px;
 }
 
 strong {
   font-size: 48px;  
   color: #F9FAF8;
 }
+
+button {
+  font-size: 18px;
+}
+
