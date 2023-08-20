@@ -50,7 +50,9 @@ body {
 .heading-box {
   display: flex;
   margin-top: 7rem;
-  justify-content: space-around;
+  height: 350px;
+  width: auto;
+  margin-left: 7em;
   
   
 }
@@ -58,12 +60,15 @@ body {
 .paragraph {
   color:#f9faf8;
   font-size: 18px;
+  justify-content: space-between;
+  
  
 }
 
 img {
-  width: 500px;
-  height: 350px;
+  max-width: auto;
+  max-height: auto;
+  margin-left: 40em;
 }
 
 strong {
@@ -75,6 +80,29 @@ button {
   font-size: 18px;
 }
 
-.container {
+.four-box {
+  display: flex;
+  justify-content: space-between;
+  
   
 }
+
+.dog-one-img {
+  border: blue solid 10px;
+    
+}
+
+.dog-two-img {
+  border: blue solid 10px;
+  
+}
+
+.dog-three-img {
+  border: blue solid 10px;
+}
+
+.dog-four-img {
+  border: blue solid 10px;
+ 
+}
+
